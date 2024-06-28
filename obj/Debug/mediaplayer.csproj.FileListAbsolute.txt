@@ -1,0 +1,17 @@
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\bin\Debug\mediaplayer.exe.config
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\bin\Debug\mediaplayer.exe
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\bin\Debug\mediaplayer.pdb
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\obj\Debug\mediaplayer.csproj.AssemblyReference.cache
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\obj\Debug\mediaplayer.csproj.ResolveComReference.cache
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\obj\Debug\mediaplayer.mediaplayer.resources
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\obj\Debug\mediaplayer.Properties.Resources.resources
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\obj\Debug\mediaplayer.csproj.GenerateResource.cache
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\obj\Debug\mediaplayer.csproj.CoreCompileInputs.cache
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\obj\Debug\mediaplayer.exe
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\obj\Debug\mediaplayer.pdb
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\obj\Debug\mediaplayer.forms.playlistcreate.resources
+C:\Users\sanha\OneDrive\Рабочий стол\работа\курсовая работа\mediaplayer\obj\Debug\mediaplayer.forms.deletevideo.resources
